@@ -1,0 +1,45 @@
+2018/05/15-13:21:40.646 22341 Reusing MANIFEST /home/sigurd/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/05/15-13:21:40.646 22341 Recovering log #210
+2018/05/15-13:21:40.646 22341 Reusing old log /home/sigurd/.config/google-chrome/Default/Session Storage/000210.log 
+2018/05/15-16:07:31.335 8330 Level-0 table #215: started
+2018/05/15-16:07:31.351 8330 Level-0 table #215: 310865 bytes OK
+2018/05/15-16:07:31.359 8330 Delete type=0 #210
+2018/05/15-16:11:59.546 8330 Level-0 table #217: started
+2018/05/15-16:11:59.566 8330 Level-0 table #217: 333495 bytes OK
+2018/05/15-16:11:59.574 8330 Delete type=0 #214
+2018/05/15-16:12:31.324 8330 Level-0 table #219: started
+2018/05/15-16:12:31.341 8330 Level-0 table #219: 301569 bytes OK
+2018/05/15-16:12:31.350 8330 Delete type=0 #216
+2018/05/15-16:33:44.192 8330 Level-0 table #221: started
+2018/05/15-16:33:44.210 8330 Level-0 table #221: 304034 bytes OK
+2018/05/15-16:33:44.219 8330 Delete type=0 #218
+2018/05/15-16:33:44.219 8330 Compacting 4@0 + 1@1 files
+2018/05/15-16:33:44.252 8330 Generated table #222@0: 2700 keys, 409881 bytes
+2018/05/15-16:33:44.252 8330 Compacted 4@0 + 1@1 files => 409881 bytes
+2018/05/15-16:33:44.264 8330 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/05/15-16:33:44.265 8330 Delete type=2 #215
+2018/05/15-16:33:44.265 8330 Delete type=2 #212
+2018/05/15-16:33:44.265 8330 Delete type=2 #219
+2018/05/15-16:33:44.265 8330 Delete type=2 #217
+2018/05/15-16:33:44.266 8330 Delete type=2 #221
+2018/05/15-16:36:32.413 8330 Level-0 table #224: started
+2018/05/15-16:36:32.429 8330 Level-0 table #224: 295426 bytes OK
+2018/05/15-16:36:32.437 8330 Delete type=0 #220
+2018/05/16-15:43:17.400 8330 Compacting 1@1 + 1@2 files
+2018/05/16-15:43:17.435 8330 Generated table #225@1: 111 keys, 337596 bytes
+2018/05/16-15:43:17.435 8330 Compacted 1@1 + 1@2 files => 337596 bytes
+2018/05/16-15:43:17.449 8330 compacted to: files[ 1 0 1 0 0 0 0 ]
+2018/05/16-15:43:17.449 8330 Delete type=2 #222
+2018/05/16-15:43:17.450 8330 Delete type=2 #176
+2018/05/16-18:52:12.456 8330 Level-0 table #227: started
+2018/05/16-18:52:12.468 8330 Level-0 table #227: 21563 bytes OK
+2018/05/16-18:52:12.476 8330 Delete type=0 #223
+2018/05/18-17:34:08.160 8330 Compacting 2@0 + 0@1 files
+2018/05/18-17:34:08.171 8330 Generated table #228@0: 520 keys, 18045 bytes
+2018/05/18-17:34:08.171 8330 Compacted 2@0 + 0@1 files => 18045 bytes
+2018/05/18-17:34:08.178 8330 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/05/18-17:34:08.178 8330 Delete type=2 #224
+2018/05/18-17:34:08.179 8330 Delete type=2 #227
+2018/05/20-13:42:31.339 8330 Level-0 table #230: started
+2018/05/20-13:42:31.349 8330 Level-0 table #230: 24740 bytes OK
+2018/05/20-13:42:31.357 8330 Delete type=0 #226

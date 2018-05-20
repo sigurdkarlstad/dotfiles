@@ -1,0 +1,31 @@
+2018/05/15-13:21:40.678 22341 Reusing MANIFEST /home/sigurd/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2018/05/15-13:21:40.678 22341 Recovering log #84
+2018/05/15-13:21:40.679 22341 Reusing old log /home/sigurd/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000084.log 
+2018/05/16-15:54:31.641 8330 Level-0 table #88: started
+2018/05/16-15:54:31.677 8330 Level-0 table #88: 2494622 bytes OK
+2018/05/16-15:54:31.685 8330 Delete type=0 #84
+2018/05/16-16:15:29.634 8330 Level-0 table #90: started
+2018/05/16-16:15:29.683 8330 Level-0 table #90: 2688152 bytes OK
+2018/05/16-16:15:29.696 8330 Delete type=0 #87
+2018/05/18-18:09:22.614 8330 Level-0 table #92: started
+2018/05/18-18:09:22.692 8330 Level-0 table #92: 3249861 bytes OK
+2018/05/18-18:09:22.700 8330 Delete type=0 #89
+2018/05/18-18:09:22.703 8330 Compacting 4@0 + 3@1 files
+2018/05/18-18:09:22.771 8330 Generated table #93@0: 13 keys, 2116962 bytes
+2018/05/18-18:09:22.811 8330 Generated table #94@0: 15 keys, 2111191 bytes
+2018/05/18-18:09:22.867 8330 Generated table #95@0: 6 keys, 2289623 bytes
+2018/05/18-18:09:22.869 8330 Compacted 4@0 + 3@1 files => 6517776 bytes
+2018/05/18-18:09:22.876 8330 compacted to: files[ 0 4 1 0 0 0 0 ]
+2018/05/18-18:09:22.877 8330 Delete type=2 #85
+2018/05/18-18:09:22.878 8330 Delete type=2 #92
+2018/05/18-18:09:22.879 8330 Delete type=2 #88
+2018/05/18-18:09:22.880 8330 Delete type=2 #82
+2018/05/18-18:09:22.881 8330 Delete type=2 #81
+2018/05/18-18:09:22.881 8330 Delete type=2 #80
+2018/05/18-18:09:22.882 8330 Delete type=2 #90
+2018/05/19-14:22:13.484 8330 Level-0 table #97: started
+2018/05/19-14:22:13.531 8330 Level-0 table #97: 2218877 bytes OK
+2018/05/19-14:22:13.539 8330 Delete type=0 #91
+2018/05/20-15:36:48.046 8330 Level-0 table #99: started
+2018/05/20-15:36:48.098 8330 Level-0 table #99: 2475170 bytes OK
+2018/05/20-15:36:48.107 8330 Delete type=0 #96

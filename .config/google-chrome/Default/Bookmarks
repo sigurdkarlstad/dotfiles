@@ -1,0 +1,873 @@
+{
+   "checksum": "f4d6f59b0fddbf2ea3cc8e5d6df9f9fb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13152991430000000",
+            "id": "6",
+            "name": "D-LINK",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://dlinkrouter.local/Home.html"
+         }, {
+            "date_added": "13013296453000000",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13171117235132832"
+            },
+            "name": "",
+            "sync_transaction_version": "520",
+            "type": "url",
+            "url": "http://no.reddit.com/"
+         }, {
+            "date_added": "13136845389000000",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13169077273802030"
+            },
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         }, {
+            "date_added": "13116139465000000",
+            "id": "9",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://fronter.com/uit/main.phtml"
+         }, {
+            "date_added": "13147975166000000",
+            "id": "10",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://uit.instructure.com/"
+         }, {
+            "date_added": "13116424465000000",
+            "id": "11",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://uit.no/studenter/minside"
+         }, {
+            "date_added": "13157846865000000",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13171078013033012"
+            },
+            "name": "",
+            "sync_transaction_version": "505",
+            "type": "url",
+            "url": "http://t5s.dyndns.org:32400/web/index.html#"
+         }, {
+            "date_added": "13113587269000000",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13171072733722008"
+            },
+            "name": "",
+            "sync_transaction_version": "505",
+            "type": "url",
+            "url": "http://123movies.to/"
+         }, {
+            "date_added": "13130106915000000",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13171072737112691"
+            },
+            "name": "",
+            "sync_transaction_version": "505",
+            "type": "url",
+            "url": "https://fmovies.se/"
+         }, {
+            "date_added": "13062986519000000",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13171117337971545"
+            },
+            "name": "",
+            "sync_transaction_version": "521",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13029466179000000",
+            "id": "16",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://www.4chan.org/"
+         }, {
+            "date_added": "13149450241000000",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13171077052502926"
+            },
+            "name": "",
+            "sync_transaction_version": "505",
+            "type": "url",
+            "url": "https://www.komplett.no/"
+         }, {
+            "date_added": "13062692193000000",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13168795544165533"
+            },
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://nettbanken.nordea.no/login/"
+         }, {
+            "date_added": "13024524314000000",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13171116738223948"
+            },
+            "name": "",
+            "sync_transaction_version": "517",
+            "type": "url",
+            "url": "http://imgur.com/"
+         }, {
+            "date_added": "13031520739000000",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13171117108920347"
+            },
+            "name": "",
+            "sync_transaction_version": "519",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13033162959000000",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13170176367231456"
+            },
+            "name": "",
+            "sync_transaction_version": "424",
+            "type": "url",
+            "url": "http://www.finn.no/"
+         }, {
+            "date_added": "13156736969000000",
+            "id": "22",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://ukpirate.org/"
+         }, {
+            "date_added": "13014073473000000",
+            "id": "23",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://thepiratebay.org/"
+         }, {
+            "date_added": "13027644271000000",
+            "id": "24",
+            "name": "BF4",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://battlelog.battlefield.com/bf4/"
+         }, {
+            "date_added": "13027070729000000",
+            "id": "25",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://snt148.mail.live.com/default.aspx?id=64855&owa=1&owasuffix=owa%2f#!/"
+         }, {
+            "date_added": "13043706830000000",
+            "id": "26",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://www.prisguide.no/"
+         }, {
+            "date_added": "13079137211000000",
+            "id": "27",
+            "meta_info": {
+               "last_visited_desktop": "13168964073585599"
+            },
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://www.massdrop.com/home"
+         }, {
+            "date_added": "13094751228000000",
+            "id": "28",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://animeflavor.me/cartoons"
+         }, {
+            "date_added": "13120971094000000",
+            "id": "29",
+            "name": "",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://beetv.me/"
+         }, {
+            "children": [ {
+               "date_added": "13048037509000000",
+               "id": "89",
+               "name": "dOWNS kid",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://i.imgur.com/r2ggJ7b.jpg"
+            }, {
+               "date_added": "13026568556000000",
+               "id": "90",
+               "name": "I can't describe just how much I love this photo I took in London - Imgur",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://imgur.com/r/funny/49egAvC"
+            }, {
+               "date_added": "13069541975000000",
+               "id": "91",
+               "name": "DeadpoolSupplier's albums - Imgur",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://deadpoolsupplier.imgur.com/"
+            }, {
+               "date_added": "13081045887000000",
+               "id": "92",
+               "name": "ongo bongo",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://i.imgur.com/48sCjQG.png"
+            }, {
+               "date_added": "13094999347000000",
+               "id": "93",
+               "name": "You're welcome! (Clickable links) - Imgur",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://imgur.com/gallery/nqr58qu"
+            }, {
+               "date_added": "13116615638000000",
+               "id": "94",
+               "name": "Linux CheatSheet!! - Imgur",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://imgur.com/gallery/Bb1c5"
+            }, {
+               "date_added": "13118230714000000",
+               "id": "95",
+               "name": "My personal wallpaper dump. Enjoy! - Imgur",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://imgur.com/gallery/WPZmE"
+            }, {
+               "date_added": "13120673827000000",
+               "id": "96",
+               "name": "",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://imgur.com/gallery/oZyED"
+            }, {
+               "date_added": "13117990719000000",
+               "id": "97",
+               "name": "What is the 3 Day Military Diet",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.3daymilitarydiet.net/about-the-diet.html"
+            }, {
+               "date_added": "13130534519000000",
+               "id": "98",
+               "meta_info": {
+                  "last_visited_desktop": "13166208662839198"
+               },
+               "name": "The trump pizza (wall included) - Album on Imgur",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://imgur.com/gallery/iGmGG"
+            }, {
+               "date_added": "13128729591000000",
+               "id": "99",
+               "name": "Masazumi Japanese Kitchen Knives - Massdrop",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.massdrop.com/buy/jkd-kitchen-knives"
+            }, {
+               "date_added": "13135814321000000",
+               "id": "100",
+               "meta_info": {
+                  "last_visited_desktop": "13166208609009938"
+               },
+               "name": "Squash banana - YouTube",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NmPxPLkYZaw"
+            } ],
+            "date_added": "13162554299720840",
+            "date_modified": "13167488834042199",
+            "id": "30",
+            "name": "imgur",
+            "sync_transaction_version": "316",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13119357680000000",
+               "id": "71",
+               "name": "Learn to code | Codecademy",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.codecademy.com/"
+            }, {
+               "date_added": "13120163978000000",
+               "id": "72",
+               "name": "Ubuntu 16.04 on Dell Xps 15 9550 (i7-6700HQ - 1TB SSD - UHD 4k touch)",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://ubuntuforums.org/showthread.php?t=2317843"
+            }, {
+               "date_added": "13120673503000000",
+               "id": "73",
+               "name": "Calculus 1 (Full Length Videos) - YouTube",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLF797E961509B4EB5"
+            }, {
+               "date_added": "13130249952000000",
+               "id": "74",
+               "name": "The Python Tutorial — Python 3.6.0 documentation",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://docs.python.org/3/tutorial/index.html"
+            }, {
+               "date_added": "13135802015000000",
+               "id": "75",
+               "name": "Gratis online touchmetoden kurs | touchmetoden Veileder",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.sense-lang.org/typing/tutor/keyboardingNO.php"
+            }, {
+               "date_added": "13131712045000000",
+               "id": "76",
+               "name": "",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://repl.it/"
+            }, {
+               "date_added": "13133977380000000",
+               "id": "77",
+               "meta_info": {
+                  "last_visited_desktop": "13171203113316235"
+               },
+               "name": "GitHub",
+               "sync_transaction_version": "522",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13149986000000000",
+               "id": "78",
+               "name": "Apps",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "chrome://apps/"
+            }, {
+               "date_added": "13135172291000000",
+               "id": "79",
+               "meta_info": {
+                  "last_visited_desktop": "13170598895961079"
+               },
+               "name": "Codeshare - Share code in real-time in your browser",
+               "sync_transaction_version": "490",
+               "type": "url",
+               "url": "https://codeshare.io/"
+            }, {
+               "date_added": "13151501380000000",
+               "id": "80",
+               "meta_info": {
+                  "last_visited_desktop": "13170373142890730"
+               },
+               "name": "Oh My Zsh",
+               "sync_transaction_version": "468",
+               "type": "url",
+               "url": "http://ohmyz.sh/"
+            }, {
+               "date_added": "13151970042000000",
+               "id": "81",
+               "name": "4. Using Python on a Macintosh — Python 3.6.3 documentation",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://docs.python.org/3/using/mac.html"
+            }, {
+               "date_added": "13154299298000000",
+               "id": "82",
+               "meta_info": {
+                  "last_visited_desktop": "13168348589524561"
+               },
+               "name": "Show Off Your Config · bhilburn/powerlevel9k Wiki",
+               "sync_transaction_version": "474",
+               "type": "url",
+               "url": "https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config"
+            }, {
+               "date_added": "13154334154000000",
+               "id": "83",
+               "name": "bhilburn/powerlevel9k: The most awesome Powerline theme for ZSH around!",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://github.com/bhilburn/powerlevel9k#prompt-customization"
+            }, {
+               "date_added": "13160499429000000",
+               "id": "84",
+               "meta_info": {
+                  "last_visited_desktop": "13168451189865153"
+               },
+               "name": "MAT-1004 INFO",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://serre.mat-stat.uit.no/kurs/MAT-1004-V-2018/Course-info.php"
+            }, {
+               "date_added": "13160981173000000",
+               "id": "85",
+               "meta_info": {
+                  "last_visited_desktop": "13170336340864294"
+               },
+               "name": "Home",
+               "sync_transaction_version": "457",
+               "type": "url",
+               "url": "https://uit-inf-2201-s18.github.io//"
+            }, {
+               "date_added": "13161739867000000",
+               "id": "86",
+               "name": "i3wm: Jump Start (1/3) - YouTube",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=j1I63wGcvU4"
+            }, {
+               "date_added": "13167476850861603",
+               "id": "87",
+               "meta_info": {
+                  "last_visited_desktop": "13167476850862101"
+               },
+               "name": "explainshell.com - match command-line arguments to their help text",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://explainshell.com/"
+            }, {
+               "date_added": "13167480491309012",
+               "id": "88",
+               "meta_info": {
+                  "last_visited_desktop": "13167480542654174"
+               },
+               "name": "Manjaro i3 Community Edition 17.0 released | Manjaro Linux",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://manjaro.org/2017/03/07/manjaro-i3-community-edition-17-0-released/"
+            }, {
+               "date_added": "13167994433051291",
+               "id": "104",
+               "meta_info": {
+                  "last_visited_desktop": "13168695576591387"
+               },
+               "name": "OS-Boka.pdf",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://magnussen.tf/Books/modern_operating_systems.pdf"
+            }, {
+               "date_added": "13167994433051291",
+               "id": "102",
+               "meta_info": {
+                  "last_visited_desktop": "13168695576591387"
+               },
+               "name": "OS-Boka.pdf",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://magnussen.tf/Books/modern_operating_systems.pdf"
+            }, {
+               "date_added": "13168977837953440",
+               "id": "108",
+               "meta_info": {
+                  "last_visited_desktop": "13170160976519609"
+               },
+               "name": "curtislb/UnixFileSystem: Implementation of a simple Unix-like file system",
+               "sync_transaction_version": "475",
+               "type": "url",
+               "url": "https://github.com/curtislb/UnixFileSystem"
+            } ],
+            "date_added": "13162554299721863",
+            "date_modified": "13170506762929403",
+            "id": "31",
+            "name": "skole",
+            "sync_transaction_version": "316",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13140227643000000",
+               "id": "65",
+               "name": "www.adlibris.com/no/avdeling/programmering-9031?id=9031&pn=3",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.adlibris.com/no/avdeling/programmering-9031?id=9031&pn=3"
+            }, {
+               "date_added": "13143598676000000",
+               "id": "66",
+               "name": "Energidrikker på nett | Yoolando.com",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://yoolando.com/drikkevarer/alkoholfri-drikkevarer/energidrikker.html"
+            }, {
+               "date_added": "13153362945000000",
+               "id": "67",
+               "name": "SECRID MINIWALLET | Morris",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.morris.no/article/secrid-miniwallet?attr1_id=57"
+            }, {
+               "date_added": "13141443272000000",
+               "id": "68",
+               "name": "Asus 24.5\" LED G-Sync ROG Swift PG258Q - Skjermer - Komplett.no",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.komplett.no/product/913470/gaming/skjerm-tilbehoer/skjermer/asus-245-led-g-sync-rog-swift-pg258q#"
+            }, {
+               "date_added": "13155691153000000",
+               "id": "69",
+               "name": "Windows - Mac Comparison",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.image-line.com/flstudio/win-mac-compare.php"
+            }, {
+               "date_added": "13159892723000000",
+               "id": "70",
+               "meta_info": {
+                  "last_visited_desktop": "13168783669362547"
+               },
+               "name": "Chapman Guitars",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.chapmanguitars.co.uk/"
+            } ],
+            "date_added": "13162554299723067",
+            "date_modified": "13167488834043505",
+            "id": "32",
+            "name": "kjøp",
+            "sync_transaction_version": "316",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13143987572000000",
+               "id": "38",
+               "name": "Legion Invasion Timers",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://wow.gameinfo.io/invasions"
+            }, {
+               "date_added": "13141789789000000",
+               "id": "39",
+               "name": "Glory of the Firelands Raider - Achievement - World of Warcraft",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/achievement=5828/glory-of-the-firelands-raider"
+            }, {
+               "date_added": "13141442652000000",
+               "id": "40",
+               "name": "WoW Mining Guide 1-800 - Legion Mining Leveling Guide - Mining Maps",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wow-professions.com/wowguides/wow-mining-guide.html#50"
+            }, {
+               "date_added": "13141795055000000",
+               "id": "41",
+               "name": "All The 100% Drop Rate Mounts in World of Warcraft - YouTube",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=P8v5c47jnXU"
+            }, {
+               "date_added": "13141849369000000",
+               "id": "42",
+               "name": "Find Aeonaxx: Aeonaxx Spawn Timer & Phasing",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://findaeonaxx.blogspot.no/2011/05/aeonaxx-spawn-timer-phasing.html"
+            }, {
+               "date_added": "13142055678000000",
+               "id": "43",
+               "name": "All Totally Solo-able Dungeons/Raids for Mounts - WoW General - Wowhead Forums",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/forums&topic=217174/all-totally-solo-able-dungeons-raids-for-mounts"
+            }, {
+               "date_added": "13142137274000000",
+               "id": "44",
+               "name": "Shal'dorei Silk Farming Guide - WoW-Professions",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wow-professions.com/farming/shaldorei-silk-farming"
+            }, {
+               "date_added": "13142137749000000",
+               "id": "45",
+               "meta_info": {
+                  "last_visited_desktop": "13167920525892034"
+               },
+               "name": "DPS Rankings, Level 110 (Legion 7.2) - Noxxic",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.noxxic.com/wow/dps-rankings/targets-1-ilvl-910-fight-max/"
+            }, {
+               "date_added": "13142211451000000",
+               "id": "46",
+               "name": "Instances by level - Wowpedia - Your wiki guide to the World of Warcraft",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://wow.gamepedia.com/Instances_by_level"
+            }, {
+               "date_added": "13142219157000000",
+               "id": "47",
+               "name": "Best Order Hall Advancement Choices for Every Class in WoW Legion - GameRevolution",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.gamerevolution.com/features/12873-best-order-hall-advancement-choices-for-every-class-in-wow-legion#/slide/1"
+            }, {
+               "date_added": "13142219187000000",
+               "id": "48",
+               "name": "Frost Mage DPS Artifact Talents/Traits and Relics (Legion 7.2.5) - World of Warcraft",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.icy-veins.com/wow/frost-mage-pve-dps-artifact-talents-traits-relics"
+            }, {
+               "date_added": "13142990773000000",
+               "id": "49",
+               "name": "Special Rogue quest added in Deadmines that allows you to get the full Blackened Defias Set:wow",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.reddit.com/r/wow/comments/6jjgx7/special_rogue_quest_added_in_deadmines_that/"
+            }, {
+               "date_added": "13143258968000000",
+               "id": "50",
+               "name": "Telsa WoW",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://telsa-productions.co.uk/telsa-wow/web/mount/home/frostgurl/EU_arathor"
+            }, {
+               "date_added": "13143749425000000",
+               "id": "51",
+               "name": "Ironbound Proto-Drake Mount Guide - Solo Glory Of The Ulduar Raider 25 Achievement Guide - YouTube",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CoPyIYWmjx8"
+            }, {
+               "date_added": "13146188787000000",
+               "id": "52",
+               "name": "blackleafdragon kommenterte på What Orderhall champions to Deactivate ! (All classes-check comments)",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.reddit.com/r/wow/comments/519b0t/what_orderhall_champions_to_deactivate_all/d7a7a1z/?context=3"
+            }, {
+               "date_added": "13148943432000000",
+               "id": "53",
+               "name": "Terrorpene - NPC - World of Warcraft",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/npc=50058/terrorpene"
+            }, {
+               "date_added": "13149626836000000",
+               "id": "54",
+               "name": "How to Camp the Time Lost Proto Drake in World of Warcraft | LevelSkip",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://levelskip.com/mmorpgs/TLPD"
+            }, {
+               "date_added": "13160427248000000",
+               "id": "55",
+               "name": "Class Guides (Legion 7.3) - World of Warcraft",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.icy-veins.com/wow/class-guides"
+            }, {
+               "date_added": "13153522627000000",
+               "id": "56",
+               "name": "Mimiron's Head - Item - World of Warcraft",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/item=45693/mimirons-head#comments"
+            }, {
+               "date_added": "13156135804000000",
+               "id": "57",
+               "name": "Pauldrons of the Vanquished Defender - Item - World of Warcraft",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/item=30249/pauldrons-of-the-vanquished-defender#comments"
+            }, {
+               "date_added": "13156397580000000",
+               "id": "58",
+               "name": "Leveling 90-100 in under ~2 hours - Guides - Wowhead",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/guides/powerleveling-90-100"
+            }, {
+               "date_added": "13157993688000000",
+               "id": "59",
+               "name": "Warlords of Draenor Reputation Overview - Guides - Wowhead",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/guides/reputation/wod/warlords-of-draenor-reputation-overview"
+            }, {
+               "date_added": "13159593987000000",
+               "id": "60",
+               "name": "[HELP] Getting TidyPlates to show friendly and enemy nameplates at the same time.:WowUI",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.reddit.com/r/WowUI/comments/2t2o05/help_getting_tidyplates_to_show_friendly_and/"
+            }, {
+               "date_added": "13160696532000000",
+               "id": "61",
+               "name": "[6.2] Shipyard Ships Combination Guide",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.mmo-champion.com/threads/1813767-6-2-Shipyard-Ships-Combination-Guide"
+            }, {
+               "date_added": "13160702231000000",
+               "id": "62",
+               "name": "Asmongold's Addon List for World of Warcraft [2017/2018] CHECK DESCRIPTION - YouTube",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=wgFXCD3g3bc"
+            }, {
+               "date_added": "13160950083000000",
+               "id": "63",
+               "name": "Asmongold - WoW",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "https://worldofwarcraft.com/en-us/character/kelthuzad/asmongold"
+            }, {
+               "date_added": "13161581928000000",
+               "id": "64",
+               "name": "The Underlight Angler - A Step by Step Guide to Obtaining Legion's Fishing Artifact - Guides - Wowhead",
+               "sync_transaction_version": "316",
+               "type": "url",
+               "url": "http://www.wowhead.com/the-underlight-angler-a-step-by-step-guide-to-obtaining-legions-fishing-artifact#number-4-graybelly-lobster"
+            } ],
+            "date_added": "13162554299723670",
+            "date_modified": "13167994433051291",
+            "id": "33",
+            "name": "wow",
+            "sync_transaction_version": "316",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13170298570751236",
+               "id": "111",
+               "meta_info": {
+                  "last_visited_desktop": "13170298570753166"
+               },
+               "name": "Übersicht",
+               "sync_transaction_version": "453",
+               "type": "url",
+               "url": "http://tracesof.net/uebersicht/"
+            }, {
+               "date_added": "13170298617073656",
+               "id": "112",
+               "meta_info": {
+                  "last_visited_desktop": "13170299622736898"
+               },
+               "name": "#rice - list o' resources",
+               "sync_transaction_version": "453",
+               "type": "url",
+               "url": "https://rizonrice.github.io/resources"
+            }, {
+               "date_added": "13170300201129778",
+               "id": "113",
+               "meta_info": {
+                  "last_visited_desktop": "13170300201131065"
+               },
+               "name": "Howto: Ricing Mac OS-X with Zsh, Iterm2 Borderless + Padding, TMux and KWM - Matt Gibson",
+               "sync_transaction_version": "453",
+               "type": "url",
+               "url": "https://www.mattgibson.ca/howto-ricing-mac-os-x-zsh-iterm2-borderless-padding-tmux-kwm/"
+            }, {
+               "date_added": "13170378065843417",
+               "id": "114",
+               "meta_info": {
+                  "last_visited_desktop": "13170378065844611"
+               },
+               "name": "iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font + [Powerlevel9k] - (macOS)",
+               "sync_transaction_version": "476",
+               "type": "url",
+               "url": "https://gist.github.com/kevin-smets/8568070"
+            } ],
+            "date_added": "13170334816278585",
+            "date_modified": "13170378065843417",
+            "id": "110",
+            "name": "rice",
+            "sync_transaction_version": "453",
+            "type": "folder"
+         }, {
+            "date_added": "13159564306000000",
+            "id": "34",
+            "name": "Timeplan for INF-2201-1, MAT-1004-1",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://timeplan.uit.no/emne_timeplan.php?year=2018&module[]=INF-2201-1&module[]=MAT-1004-1#week-1"
+         }, {
+            "date_added": "13154895296000000",
+            "id": "35",
+            "meta_info": {
+               "last_visited_desktop": "13169912766555144"
+            },
+            "name": "Coinbase",
+            "sync_transaction_version": "384",
+            "type": "url",
+            "url": "https://www.coinbase.com/dashboard"
+         }, {
+            "date_added": "13159475139000000",
+            "id": "36",
+            "name": "Kamry K1000 Plus E-Pipe - Friske Drag - E-sigaretter",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://www.friskedrag.no/products/kamry-k1000-plus-pipe"
+         }, {
+            "date_added": "13166197650039128",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13166197650039611"
+            },
+            "name": "Matrise transformasjoner | Lineær algebra | Matematikk | Khan Academy",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "https://nb.khanacademy.org/math/linear-algebra/matrix-transformations"
+         }, {
+            "date_added": "13168519779919816",
+            "id": "106",
+            "meta_info": {
+               "last_visited_desktop": "13170961836087917"
+            },
+            "name": "the absolute MADLAD - Imgur",
+            "sync_transaction_version": "501",
+            "type": "url",
+            "url": "https://imgur.com/gallery/iVfnw"
+         } ],
+         "date_added": "13167488382271390",
+         "date_modified": "13171116732143499",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13167488382271393",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "522",
+      "synced": {
+         "children": [ {
+            "date_added": "13078832448292000",
+            "id": "5",
+            "name": "5 Day Workout Plan",
+            "sync_transaction_version": "316",
+            "type": "url",
+            "url": "http://www.building-muscle101.com/5_dayworkout.html"
+         } ],
+         "date_added": "13167488382271394",
+         "date_modified": "13078832448292000",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

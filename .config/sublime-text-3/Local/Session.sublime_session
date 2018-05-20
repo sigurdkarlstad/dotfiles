@@ -1,0 +1,1581 @@
+{
+	"folder_history":
+	[
+		"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad",
+		"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad",
+		"/home/sigurd/Documents/Informatikk"
+	],
+	"last_version": 3143,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1011.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pagea",
+						"pageable_pages"
+					],
+					[
+						"new",
+						"new_dir_sett"
+					],
+					[
+						"scr",
+						"scrprintf"
+					],
+					[
+						"tab",
+						"tab_fault_addr_index"
+					],
+					[
+						"PE",
+						"PE_BASE_ADDR_MASK"
+					],
+					[
+						"dir",
+						"dir_fault_addr_index"
+					],
+					[
+						"page",
+						"page_directory"
+					],
+					[
+						"fau",
+						"fault_addr_index"
+					],
+					[
+						"print",
+						"printCompleteDir"
+					],
+					[
+						"get",
+						"get_directory_index"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"loc",
+						"lock"
+					],
+					[
+						"lo",
+						"lock_release"
+					],
+					[
+						"PAGE",
+						"PAGE_MASK"
+					],
+					[
+						"mapp",
+						"mapping_pages"
+					],
+					[
+						"ker",
+						"kernel_page_directory"
+					],
+					[
+						"set",
+						"set_pages_def"
+					],
+					[
+						"ge",
+						"get_table_index"
+					],
+					[
+						"lock",
+						"lock_release"
+					],
+					[
+						"map",
+						"mapping_pages"
+					],
+					[
+						"kern",
+						"kern_sett"
+					],
+					[
+						"kernel",
+						"kernel_page_table"
+					],
+					[
+						"kerne",
+						"kernel_page_directory"
+					],
+					[
+						"is",
+						"is_pinned"
+					],
+					[
+						"ava",
+						"is_available"
+					],
+					[
+						"ken",
+						"kernel_page_directory"
+					],
+					[
+						"all",
+						"allocate_page"
+					],
+					[
+						"al",
+						"aligned"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 131.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"package re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 461.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sigurd/Downloads/hardcoreBDSM.txt",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/interrupt.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/common.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/bochsrc",
+				"/home/sigurd/Downloads/proj-master/memory.c",
+				"/home/sigurd/Downloads/proj-master/memory.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-4-sigurdkarlstad/src/paging.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-4-sigurdkarlstad/src/memory.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-4-sigurdkarlstad/src/memory.c",
+				"/home/sigurd/.config/compton.conf",
+				"/home/sigurd/.config/polybar/config",
+				"/home/sigurd/.scripts/inverse-scroll.sh",
+				"/home/sigurd/Downloads/proj-master.zip",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/thread.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/kernel.c",
+				"/home/sigurd/.config/sublime-text-3/Packages/C++/Snippets/030-for-int-loop-(fori).sublime-snippet"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"UINT32_SIZE",
+					"addr",
+					"new_dir",
+					"addr",
+					"page_table",
+					"bcopy",
+					"page_swap_out",
+					"i",
+					"pinned",
+					"avail",
+					"pages",
+					"glob_directory"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"repot",
+						"doc/report.tex"
+					],
+					[
+						"kere",
+						"src/kernel.c"
+					],
+					[
+						"comm",
+						"src/common.h"
+					],
+					[
+						"inte",
+						"src/interrupt.c"
+					],
+					[
+						"commo",
+						"src/common.h"
+					],
+					[
+						"kerne",
+						"src/kernel.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1886.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"MAX_OPEN_FILES"
+					],
+					[
+						"fd",
+						"fd_entry"
+					],
+					[
+						"BIT",
+						"BITMAP_ENTRIES"
+					],
+					[
+						"file",
+						"file_entry"
+					],
+					[
+						"curr",
+						"current_running"
+					],
+					[
+						"name",
+						"name2inode"
+					],
+					[
+						"inode",
+						"inode_t"
+					],
+					[
+						"BITMAP",
+						"BITMAP_ENTRIES"
+					],
+					[
+						"INODE",
+						"INODE_BLOCK_START"
+					],
+					[
+						"root",
+						"root_inode"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"super",
+						"superblock"
+					],
+					[
+						"B",
+						"BITMAP_OFFSET"
+					],
+					[
+						"SUPER",
+						"SUPERBLOCK_OFFSET"
+					],
+					[
+						"fs",
+						"fs_mkfs"
+					],
+					[
+						"block",
+						"block_num"
+					],
+					[
+						"page",
+						"pageable_pages"
+					],
+					[
+						"ker",
+						"kernel_page_table"
+					],
+					[
+						"get",
+						"get_table_index"
+					],
+					[
+						"swa",
+						"swap_size"
+					],
+					[
+						"fau",
+						"fault"
+					],
+					[
+						"tmp",
+						"tmp_pg_addr"
+					],
+					[
+						"PE",
+						"PE_BASE_ADDR_MASK"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"kerne",
+						"kernel_page_table"
+					],
+					[
+						"swap_i",
+						"swap_i"
+					],
+					[
+						"swap",
+						"swap_size"
+					],
+					[
+						"SEC",
+						"SECTORS_PER_PAGE"
+					],
+					[
+						"SE",
+						"SECTORS_PER_PAGE"
+					],
+					[
+						"swaplo",
+						"swap_loc_and_size"
+					],
+					[
+						"ta",
+						"table_entry"
+					],
+					[
+						"is",
+						"is_pinned"
+					],
+					[
+						"swap_loc",
+						"swap_location"
+					],
+					[
+						"fault",
+						"fault_sett"
+					],
+					[
+						"tab",
+						"tab_fault_addr_index"
+					],
+					[
+						"swap_in",
+						"swap_page_in"
+					],
+					[
+						"kern",
+						"kernel_page_table"
+					],
+					[
+						"index",
+						"directory_index"
+					],
+					[
+						"PAGE",
+						"PAGE_N_ENTRIES"
+					],
+					[
+						"new",
+						"new_sett"
+					],
+					[
+						"dirce",
+						"directory_index"
+					],
+					[
+						"user",
+						"user_stack"
+					],
+					[
+						"map",
+						"mapping_of_user_stack"
+					],
+					[
+						"allo",
+						"allocate_pages"
+					],
+					[
+						"ad",
+						"address"
+					],
+					[
+						"not",
+						"not_full_page"
+					],
+					[
+						"scs",
+						"scsi_write"
+					],
+					[
+						"swaloc",
+						"swap_loc_and_size"
+					],
+					[
+						"replace",
+						"replace_index"
+					],
+					[
+						"table",
+						"table_index"
+					],
+					[
+						"process",
+						"process_id"
+					],
+					[
+						"set",
+						"set_page_members"
+					],
+					[
+						"loc",
+						"locate"
+					],
+					[
+						"pagable",
+						"pageable_pages"
+					],
+					[
+						"pageble",
+						"pageable_pages"
+					],
+					[
+						"va",
+						"viraddr"
+					],
+					[
+						"repl",
+						"replace_index"
+					],
+					[
+						"rpl",
+						"replace_index"
+					],
+					[
+						"pagea",
+						"pageable_pages"
+					],
+					[
+						"scr",
+						"scrprintf"
+					],
+					[
+						"print",
+						"printCompleteDir"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"lo",
+						"lock_release"
+					],
+					[
+						"mapp",
+						"mapping_pages"
+					],
+					[
+						"ge",
+						"get_table_index"
+					],
+					[
+						"lock",
+						"lock_release"
+					],
+					[
+						"kernel",
+						"kernel_page_table"
+					],
+					[
+						"ava",
+						"is_available"
+					],
+					[
+						"ken",
+						"kernel_page_directory"
+					],
+					[
+						"all",
+						"allocate_page"
+					],
+					[
+						"al",
+						"aligned"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/block.c",
+					"settings":
+					{
+						"buffer_size": 2220,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/block.h",
+					"settings":
+					{
+						"buffer_size": 498,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#include \"fs.h\"\n\n#ifdef LINUX_SIM\n#include <stdio.h>\n#include <assert.h>\n#include <stdlib.h>\n#endif /* LINUX_SIM */\n\n#include \"common.h\"\n#include \"block.h\"\n#include \"util.h\"\n#include \"thread.h\"\n#include \"inode.h\"\n#include \"superblock.h\"\n#include \"kernel.h\"\n#include \"fs_error.h\"\n\n#define BITMAP_ENTRIES 256\n\n#define INODE_TABLE_ENTRIES 20\n\n\nstatic char inode_bmap[BITMAP_ENTRIES];\nstatic char dblk_bmap[BITMAP_ENTRIES];\n\nstatic int get_free_entry(unsigned char *bitmap);\nstatic int free_bitmap_entry(int entry, unsigned char *bitmap);\nstatic inode_t name2inode(char *name);\nstatic blknum_t ino2blk(inode_t ino);\nstatic blknum_t idx2blk(int index);\n\n// STUDENT DEFINES\n\n#define MAX_FILESIZE (BLOCK_SIZE * (INODE_NDIRECT + (BLOCK_SIZE / sizeof(blknum_t))))\n\ndouble MAGIC_NUM = 0x08008135;\n\n#define SUPERBLOCK_START  (os_size + 1)\n#define BITMAP_START      (SUPERBLOCK_START + SUPERBLOCK_SIZE)\n#define INODE_BLOCK_START (BITMAP_START + 1)\n#define DATA_BLOCK_START  (INODE_BLOCK_START + BITMAP_ENTRIES)\n\nstruct mem_superblock m_superblock;\n\nstruct mem_inode m_inodes[INODE_TABLE_ENTRIES];\n\n/*\n * Exported functions.\n */\nvoid fs_init(void)\n{\n\tblock_init();\n\n\tchar buffer[BLOCK_SIZE];\n\n\tscrprintf(2, 2, \"os_size: %d\", os_size);\n\n\t// Create a filesystem if necessary \n\tstruct mem_superblock read;\n\tread = block_read(SUPERBLOCK_START, buffer);\n\n\n\t// check if there is a FS already\n\tif(MAGIC_NUM != read->disk_superblock->magic_num)\n\t\tfs_mkfs();\n\telse\n\t{\n\n\t\t// Restore the FS\n\n\n\n\n\t\t// set the current working directpry to be the root\n\t\tcurrent_running->cwd = read.root_inode;\n\t}\n\n}\n\n/*\n * Make a new file system.\n * Argument: kernel size\n */\nvoid fs_mkfs(void)\n{\n\tchar buf[BLOCK_SIZE];\n\n\t// Write the superblock\n\tstruct disk_superblock d_superblock;\n\td_superblock.magic_num \t\t= 0x08008135;\n\td_superblock.ninodes \t\t= 256;\n\td_superblock.ndata_blks \t= 256;\n\td_superblock.root_inode \t= get_free_entry(inode_bmap);\n\td_superblock.max_filesize   = MAX_FILESIZE;\n\n\t// Mark data blocks and inodes to be free\n\tbzero(inode_bmap, BITMAP_ENTRIES);\n\tbzero(dblk_bmap, BITMAP_ENTRIES);\n\n\n\t// Set the current working directory to be the root directory\n\tpcb->cwd = d_superblock->root_inode;\t\n\n\tfor (int i = 0; i < INODE_TABLE_ENTRIES; i++)\n\t{\n\t\tm_inodes[i].open_count  = 0;\n\t\tm_inodes[i].pos \t\t= 0;\n\t\tm_inodes[i].inode_num \t= 0;\n\t\tm_inodes[i].dirty \t\t= FALSE;\n\t}\n\n\t//create the root directory\n\tfs_mkdir(\"/\");\n\n\t// write bitmaps to disk\n\tblock_modify(BITMAP_START, 0, inode_bmap, BITMAP_ENTRIES);\n\tblock_modify(BITMAP_START, BITMAP_ENTRIES, dblk_bmap, BITMAP_ENTRIES);\n\n\t// write superblock to disk\n\t// <------||------>\n\n\t// Initilize user file descriptor table\n\tbzero((char*)fd_entry, sizeof(struct fd_entry) * MAX_OPEN_FILES);\n}\n\n/*\n *\n */\nint fs_open(const char *filename, int mode)\n{\n\tstruct disk_inode d_i_node;\n\tstruct fd_entry file_entry;\n\n\t// gets the inode from the name\n\tinode_t i_node = name2inode(filename);\n\n\tblock_read_part(INODE_BLOCK_START + i_node, 0, sizeof(struct disk_inode), &d_i_node);\n\n\tm_inodes[i_node].d_i_node   = d_i_node;\n\tm_inodes[i_node].inode_num = i_node;\n\tm_inodes[i_node].pos       = 0;\n\tm_inodes[i_node].open_count++;\n\n\tfile_entry.idx   = i_node;\n\tfile_entry.mode  = mode;\n\n\tint file_entry_idx, idx;\n\n\tfor (idx = 0, file_entry_idx = 0; idx < MAX_OPEN_FILES; idx++)\n\t{\n\t\tstruct fd_entry entry = current_running->filedes[idx];\n\t\tif(entry.mode == MODE_UNUSED)\n\t\t\tfile_entry_idx = idx;\n\t}\n\n\tcurrent_running->filedes[file_entry_idx] = entry;\n\n\treturn 0;\n}\n\n/*\n *\n */\nint fs_close(int fd)\n{\n\n\tstruct fd_entry file_entry = current_running->filedes[fd];\n\n\tinode_t i_node = file_entry.idx;\n\n\tstruct mem_inode *m_i_node = &m_inodes[i_node];\n\n\tm_i_node->pos = 0;\n\n\tfile_entry.idx = -1;\n\tfile_entry.mode = MODE_UNUSED;\n\n\tcurrent_running->filedes[fd] = file_entry;\n\n\treturn 0;\n}\n\n/*\n *\n */\nint fs_read(int fd, char *buffer, int size)\n{\n\treturn -1;\n}\n\n/*\n *\n */\nint fs_write(int fd, char *buffer, int size)\n{\n\treturn -1;\n}\n\n/*\n * fs_lseek:\n * This function is really incorrectly named, since neither its offset\n * argument or its return value are longs (or off_t's). Also, it will\n * cause blocks to allocated if it extends the file (holes are not\n * supported in this simple filesystem).\n */\nint fs_lseek(int fd, int offset, int whence)\n{\n\treturn -1;\n}\n\n/*\n *\n */\nint fs_mkdir(char *dirname)\n{\n\treturn -1;\n\t\n\t// write the inode\n\tstruct disk_inode d_inode;\n\td_inode->type \t= INTYPE_DIR;\n\td_inode->size \t= 0;\n\td_inode->nlinks = 0;\n\td_inode->direct[INODE_NDIRECT]; \n\n\n\n\n\t// create entries\n\tstruct dirent dir_entry;\n\tdir_entry.inode = 0;\n\n\t\n\n\n\t// if (file_name exists)\n\t// \treturn print_fse(FSE_EXIST);\n\t// allocate data block\n\t// allocate inode\n\t// set directory entries for “.” and “..”\n\t// set inode entries appropriately\n\t// update parent\n\t// return SUCCESS;\n\n}\n\n/*\n *\n */\nint fs_chdir(char *path)\n{\n\treturn -1;\n}\n\n/*\n *\n */\nint fs_rmdir(char *path)\n{\n\treturn -1;\n}\n\n/*\n *\n */\nint fs_link(char *linkname, char *filename)\n{\n\treturn -1;\n}\n\n/*\n *\n */\nint fs_unlink(char *linkname)\n{\n\n\treturn -1;\n}\n\n/*\n *\n */\nint fs_stat(int fd, char *buffer)\n{\n\treturn -1;\n}\n\n/* \n * Helper functions for the system calls\n */\n\n/*\n * get_free_entry:\n * \n * Search the given bitmap for the first zero bit.  If an entry is\n * found it is set to one and the entry number is returned.  Returns\n * -1 if all entrys in the bitmap are set.\n */\nstatic int get_free_entry(unsigned char *bitmap)\n{\n\tint i;\n\n\t/* Seach for a free entry */\n\tfor (i = 0; i < BITMAP_ENTRIES / 8; i++) {\n\t\tif (bitmap[i] == 0xff)  /* All taken */\n\t\t\tcontinue;\n\t\tif ((bitmap[i] & 0x80) == 0) {  /* msb */\n\t\t\tbitmap[i] |= 0x80;\n\t\t\treturn i * 8;\n\t\t} else if ((bitmap[i] & 0x40) == 0) {\n\t\t\tbitmap[i] |= 0x40;\n\t\t\treturn i * 8 + 1;\n\t\t} else if ((bitmap[i] & 0x20) == 0) {\n\t\t\tbitmap[i] |= 0x20;\n\t\t\treturn i * 8 + 2;\n\t\t} else if ((bitmap[i] & 0x10) == 0) {\n\t\t\tbitmap[i] |= 0x10;\n\t\t\treturn i * 8 + 3;\n\t\t} else if ((bitmap[i] & 0x08) == 0) {\n\t\t\tbitmap[i] |= 0x08;\n\t\t\treturn i * 8 + 4;\n\t\t} else if ((bitmap[i] & 0x04) == 0) {\n\t\t\tbitmap[i] |= 0x04;\n\t\t\treturn i * 8 + 5;\n\t\t} else if ((bitmap[i] & 0x02) == 0) {\n\t\t\tbitmap[i] |= 0x02;\n\t\t\treturn i * 8 + 6;\n\t\t} else if ((bitmap[i] & 0x01) == 0) {  /* lsb */\n\t\t\tbitmap[i] |= 0x01;\n\t\t\treturn i * 8 + 7;\n\t\t}\n\t}\n\treturn -1;\n}\n\n/*\n * free_bitmap_entry:\n *\n * Free a bitmap entry, if the entry is not found -1 is returned, otherwise zero. \n * Note that this function does not check if the bitmap entry was used (freeing\n * an unused entry has no effect).\n */\nstatic int free_bitmap_entry(int entry, unsigned char *bitmap)\n{\n\tunsigned char *bme;\n\n\tif (entry >= BITMAP_ENTRIES)\n\t\treturn -1;\n\n\tbme = &bitmap[entry / 8];\n\n\tswitch (entry % 8) {\n\tcase 0:\n\t\t*bme &= ~0x80;\n\t\tbreak;\n\tcase 1:\n\t\t*bme &= ~0x40;\n\t\tbreak;\n\tcase 2:\n\t\t*bme &= ~0x20;\n\t\tbreak;\n\tcase 3:\n\t\t*bme &= ~0x10;\n\t\tbreak;\n\tcase 4:\n\t\t*bme &= ~0x08;\n\t\tbreak;\n\tcase 5:\n\t\t*bme &= ~0x04;\n\t\tbreak;\n\tcase 6:\n\t\t*bme &= ~0x02;\n\t\tbreak;\n\tcase 7:\n\t\t*bme &= ~0x01;\n\t\tbreak;\n\t}\n\n\treturn 0;\n}\n\n\n\n/*\n * ino2blk:\n * Returns the filesystem block (block number relative to the super\n * block) corresponding to the inode number passed.\n */\nstatic blknum_t ino2blk(inode_t ino)\n{\n\treturn (blknum_t)-1;\n}\n\n/*\n * idx2blk:\n * Returns the filesystem block (block number relative to the super\n * block) corresponding to the data block index passed.\n */\nstatic blknum_t idx2blk(int index)\n{\n\treturn (blknum_t)-1;\n}\n\n/*\n * name2inode:\n * Parses a file name and returns the corresponding inode number. If\n * the file cannot be found, -1 is returned.\n */\nstatic inode_t name2inode(char *name)\n{\n\treturn (inode_t)current_running->cwd;\n}\n\n\n",
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fs.c",
+					"file_size": 0,
+					"file_write_time": 131702614632001338,
+					"settings":
+					{
+						"buffer_size": 7534,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/test.py",
+					"settings":
+					{
+						"buffer_size": 3846,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fs.h",
+					"settings":
+					{
+						"buffer_size": 2214,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/usb/scsi.h",
+					"settings":
+					{
+						"buffer_size": 1891,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#ifndef SUPERBLOCK_H\n#define SUPERBLOCK_H\n\n/*\n * The superblock describes the filesystem.\n *\n * The filesystem layout looks like this:\n *\n * +-------------+-----------------------------+-/\n * | Super block |  Inode & data bitmap block  |\n * +-------------+-----------------------------+-/\n *\n * <------ Inode area ----> <-------- Data block area -------->\n * /--------+-//-+---------+--------------+-//-+--------------+\n *  Inode 1 |    | Inode n | Data block 1 |    | Data block n |\n * /--------+-//-+---------+--------------+-//-+--------------+\n *\n * The member max_filesize is:\n * BLOCK_SIZE * (NDIRECT + (BLOCK_SIZE / sizeof(blknum_t))) = 1056KB\n * at present.\n *\n * The root_inode member gives the block number on disk where the\n * inode for the root directory of this filesystem resides.\n */\n\n#include \"fstypes.h\"\n\nstruct disk_superblock {\n  double magic_num; // Magic number to look for FS\n  short ninodes;    /* number of index nodes in the filesystem */\n  short ndata_blks;  /* number of data blocks */\n  blknum_t root_inode;  /* block number of inode for the root dir */\n  short max_filesize;  /* the size of the largest file */\n};\n\n#define SUPERBLK_SIZE 1\n/*\n * The superblock as used in memory. The dirty member is true if\n * filesystem metadata needs to be updated (happens when one of the\n * inode bitmaps is changed).\n */\n\nstruct mem_superblock {\n  struct disk_superblock d_super;\n  void *ibmap;    /* bitmap for inodes */\n  void *dbmap;    /* bitmap for data blocks */\n  char dirty;\n};\n\n\n#endif      \t/* SUPERBLOCK_H */\n",
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/superblock.h",
+					"file_size": 1486,
+					"file_write_time": 131691373403373198,
+					"settings":
+					{
+						"buffer_size": 1537,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Downloads/UnixFileSystem-master/src/fs.c",
+					"settings":
+					{
+						"buffer_size": 27916,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/inode.h",
+					"settings":
+					{
+						"buffer_size": 1650,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Downloads/UnixFileSystem-master/src/fs.h",
+					"settings":
+					{
+						"buffer_size": 2664,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/util.c",
+					"settings":
+					{
+						"buffer_size": 8647,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fstypes.h",
+					"settings":
+					{
+						"buffer_size": 423,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/util.h",
+					"settings":
+					{
+						"buffer_size": 1307,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/common.h",
+					"settings":
+					{
+						"buffer_size": 3233,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fs_error.c",
+					"settings":
+					{
+						"buffer_size": 2622,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#include \"fs.h\"\n\n#ifdef LINUX_SIM\n#include <stdio.h>\n#include <assert.h>\n#include <stdlib.h>\n#define rsprintf printf\n#endif /* LINUX_SIM */\n\n#include \"common.h\"\n#include \"block.h\"\n#include \"util.h\"\n#include \"thread.h\"\n#include \"inode.h\"\n#include \"superblock.h\"\n#include \"kernel.h\"\n#include \"fs_error.h\"\n\n#define BITMAP_ENTRIES 256\n\n#define INODE_TABLE_ENTRIES 20\n\n#define INODE_START (os_size + SUPERBLK_SIZE)\n// Assume that bitmap block is one block.\n#define DBLOCKS_START (INODE_START + BITMAP_ENTRIES + 1)\n\n#define DIRECT_INDEX(n, s) ((n * s) / BLOCK_SIZE)\n\nstatic char inode_bmap[BITMAP_ENTRIES];\nstatic char dblk_bmap[BITMAP_ENTRIES];\n\nstatic int get_free_entry(unsigned char *bitmap);\nstatic int free_bitmap_entry(int entry, unsigned char *bitmap);\nstatic inode_t name2inode(char *name);\nstatic blknum_t ino2blk(inode_t ino);\nstatic blknum_t idx2blk(int index);\n\n\nstruct disk_superblock superblock;\n\n// Global inode table\nstruct mem_inode inodes[INODE_TABLE_ENTRIES];\n\n/*\n * Exported functions.\n */\nvoid fs_init(void)\n{\n\tblock_init();\n\n\tchar buf[BLOCK_SIZE];\n\n\n\t// read super block to see if it is a file system\n\tblock_read(os_size + 1, buf);\n\n\t\n\n\t// If it's not our file system, make one\n\tfs_mkfs();\n}\n\n/*\n * Make a new file system.\n * Argument: kernel size\n */\nvoid fs_mkfs(void)\n{\n\t// Write Superblock\n\t// I don't know what to do :(\n\tsuperblock.ninodes = 256;\n\tsuperblock.ndata_blks = 256;\n\tsuperblock.root_inode = get_free_entry(inode_bmap);\n\tsuperblock.max_filesize = BLOCK_SIZE * (INODE_NDIRECT\n\t\t\t\t\t\t\t\t+ (BLOCK_SIZE / sizeof(blknum_t)));\n\t\n\tcurrent_running->cwd = superblock.root_inode;\n\t// Mark inode and data block as \"free\"\n\tfor (int i = 0; i < INODE_TABLE_ENTRIES; i++)\n\t{\n\t\tstruct mem_inode m_inode;\n\t\tm_inode.open_count = 0;\n\t\tm_inode.pos = 0;\n\t\tm_inode.inode_num = 0;\n\t\tm_inode.dirty = FALSE;\n\t\tinodes[i] = m_inode;\n\t}\n\t\n\t// Create root directory\n\tfs_mkdir(\"/\");\n\t// Initialize file descriptor table\n\t// Code\n\t//\n}\n\nint fs_open(const char *filename, int mode)\n{\n\tinode_t inode = name2inode((char *)filename);\n\t\n\tstruct disk_inode d_inode;\n\tblock_read_part(INODE_START + inode, 0,\n\t\t\t\t\tsizeof(struct disk_inode), &d_inode);\n\t\n\tinodes[inode].d_inode = d_inode;\n\tinodes[inode].open_count++;\n\tinodes[inode].inode_num = inode;\n\tinodes[inode].pos = 0;\n\n\tstruct fd_entry entry;\n\tentry.idx = inode;\n\tentry.mode = mode;\n\n\tint entry_index = 0;\n\n\tfor (int i = 0; i < MAX_OPEN_FILES; i++)\n\t{\n\t\tstruct fd_entry e = current_running->filedes[i];\n\t\tif (e.mode & MODE_UNUSED <= 0)\n\t\t{\n\t\t\tentry_index = i;\n\t\t}\n\n\t}\n\n\tcurrent_running->filedes[entry_index] = entry;\n\n\n\treturn 0;\n}\n\nint fs_close(int fd)\n{\n\tstruct fd_entry entry = current_running->filedes[fd];\n\n\tinode_t inode = entry.idx;\n\tstruct mem_inode *m_inode = &inodes[inode];\n\n\tm_inode->pos = 0;\n\n\tentry.idx = -1;\n\tentry.mode &= MODE_UNUSED;\n\n\tcurrent_running->filedes[fd] = entry;\n\n\treturn 0;\n}\n\nint fs_read(int fd, char *buffer, int size)\n{\n\t// Get the entry from the file descriptor table\n\tstruct fd_entry entry = current_running->filedes[fd];\n\n\tinode_t inode = entry.idx;\n\n\t// Get the memory node from the global inodes table\n\tstruct mem_inode *m_inode = &inodes[inode];\n\tm_inode->open_count++;\n\n\tstruct disk_inode *d_inode = &m_inode->d_inode;\n\n\tint direct_idx = DIRECT_INDEX(d_inode->nlinks, d_inode->size);\n\n\t// Get the block number from the disk node\n\tblknum_t blk = d_inode->direct[direct_idx];\n\n\tstruct dirent tmp;\n\n\t// Read from the start of the data blocks and get the block\n\tblock_read_part(DBLOCKS_START + blk, m_inode->pos, size, &tmp);\n\n\tbcopy((char *) &tmp, buffer, size);\n\n\t// Increase the position of the file\n\tm_inode->pos += size;\n\n\tif (m_inode->pos > d_inode->size)\n\t\treturn 0;\n\n\treturn 1;\n}\n\nint fs_write(int fd, char *buffer, int size)\n{\n\treturn -1;\n}\n\n/*\n * fs_lseek:\n * This function is really incorrectly named, since neither its offset\n * argument or its return value are longs (or off_t's). Also, it will\n * cause blocks to allocated if it extends the file (holes are not\n * supported in this simple filesystem).\n */\nint fs_lseek(int fd, int offset, int whence)\n{\n\treturn -1;\n}\n\nint fs_mkdir(char *dirname)\n{\n\t// Does filename exist?\n\t// Code\n\t\n\t// Make inode\n\tstruct disk_inode dir_inode;\t\n\tdir_inode.type = INTYPE_DIR;\n\tdir_inode.size = 0;\n\tdir_inode.nlinks = 0;\n\n\t// Create new directory\n\tstruct dirent dir;\n\t\n\t// if not root: \n\t// dir.inode = free_bitmap_entry(inode_bmap)\n\t\n\tif (same_string(dirname, \"/\"))\n\t{\n\t\tdir.inode = current_running->cwd;\n\t\t// Copy the dirname into the entry name\n\t\tstrcpy(dir.name, dirname);\n\t}\n\telse\n\t{\n\t\t// Add dir to entries\n\t\tdir.inode = get_free_entry(inode_bmap);\n\n\t\t// Copy the dirname into the entry name\n\t\tstrcpy(dir.name, dirname);\n\n\t\tstruct mem_inode parent_m_inode = inodes[current_running->cwd];\n\t\tstruct disk_inode parent_d_inode = parent_m_inode.d_inode;\n\n\t\tint idx = DIRECT_INDEX(parent_d_inode.nlinks, \n\t\t\t\t\t\t\t\tparent_d_inode.size);\n\n\t\tblknum_t blk = parent_d_inode.direct[idx];\n\n\t\tblock_modify(DBLOCKS_START + blk, \n\t\t\t\t\t\tparent_d_inode.size,\n\t\t\t\t\t\t(char *) &dir,\n\t\t\t\t\t\tsizeof(struct dirent));\n\n\t\tparent_d_inode.nlinks++;\n\t\tparent_d_inode.size += sizeof(struct dirent);\n\n\t\t// Write the new parent inode to disk\n\t\tblock_modify(INODE_START + parent_m_inode.inode_num, 0,\n\t\t\t\t\t\t&parent_d_inode, sizeof(struct disk_inode));\n\t\t\t\t\t\t\t\n\t}\n\n\t// Create entries; . and ..\t\n\tstruct dirent current_dir;\n\t// The dot directory is yourself\n\tcurrent_dir.inode = dir.inode;\n\n\tchar name[] = \".\";\n\tstrcpy(current_dir.name, name);\n\n\tstruct dirent parent_dir;\n\tparent_dir.inode = current_running->cwd;\n\n\tchar parent_name[] = \"..\";\n\tstrcpy(parent_dir.name, parent_name);\n\n\t// Find vacant block on disk\n\tshort blk_index = get_free_entry(dblk_bmap);\n\n\tint direct_index = (dir_inode.nlinks * sizeof(struct dirent)) \n\t\t\t\t\t\t/ BLOCK_SIZE;\n\t\n\tdir_inode.direct[direct_index] = blk_index;\n\n\t// Write data to allocated data block\n\tblock_modify(DBLOCKS_START + blk_index,\n\t\t\t\t\tdir_inode.size,\n\t\t\t\t\t(char *)&current_dir, \n\t\t\t\t\tsizeof(struct dirent));\t\n\n\tdir_inode.nlinks++;\n\tdir_inode.size += sizeof(struct dirent);\n\n\tblock_modify(DBLOCKS_START + blk_index,\n\t\t\t\t\tdir_inode.size,\n\t\t\t\t\t(char *)&parent_dir, \n\t\t\t\t\tsizeof(struct dirent));\t\n\n\tdir_inode.nlinks++;\n\tdir_inode.size += sizeof(struct dirent);\n\n\t// Write disk inode to block\n\t// Inode blocks should sit after superblock, and superblock sits\n\t// after the kernel \n\t//block_write(os_size + 2 + dir.inode, &dir_inode);\n\t\n\t// Start to write on 0 on the block, it has a whole block to itself\n\tblock_modify(INODE_START + dir.inode, 0, \n\t\t\t\t\t&dir_inode, sizeof(struct disk_inode));\n\n\treturn 1;\n}\n\nint fs_chdir(char *path)\n{\n\treturn -1;\n}\n\nint fs_rmdir(char *path)\n{\n\treturn -1;\n}\n\nint fs_link(char *linkname, char *filename)\n{\n\treturn -1;\n}\n\nint fs_unlink(char *linkname)\n{\n\n\treturn -1;\n}\n\n\nint fs_stat(int fd, char *buffer)\n{\n\treturn -1;\n}\n\n/* \n * Helper functions for the system calls\n */\n\n/*\n * get_free_entry:\n * \n * Search the given bitmap for the first zero bit.  If an entry is\n * found it is set to one and the entry number is returned.  Returns\n * -1 if all entrys in the bitmap are set.\n */\nstatic int get_free_entry(unsigned char *bitmap)\n{\n\tint i;\n\n\t/* Seach for a free entry */\n\tfor (i = 0; i < BITMAP_ENTRIES / 8; i++) {\n\t\tif (bitmap[i] == 0xff)  /* All taken */\n\t\t\tcontinue;\n\t\tif ((bitmap[i] & 0x80) == 0) {  /* msb */\n\t\t\tbitmap[i] |= 0x80;\n\t\t\treturn i * 8;\n\t\t} else if ((bitmap[i] & 0x40) == 0) {\n\t\t\tbitmap[i] |= 0x40;\n\t\t\treturn i * 8 + 1;\n\t\t} else if ((bitmap[i] & 0x20) == 0) {\n\t\t\tbitmap[i] |= 0x20;\n\t\t\treturn i * 8 + 2;\n\t\t} else if ((bitmap[i] & 0x10) == 0) {\n\t\t\tbitmap[i] |= 0x10;\n\t\t\treturn i * 8 + 3;\n\t\t} else if ((bitmap[i] & 0x08) == 0) {\n\t\t\tbitmap[i] |= 0x08;\n\t\t\treturn i * 8 + 4;\n\t\t} else if ((bitmap[i] & 0x04) == 0) {\n\t\t\tbitmap[i] |= 0x04;\n\t\t\treturn i * 8 + 5;\n\t\t} else if ((bitmap[i] & 0x02) == 0) {\n\t\t\tbitmap[i] |= 0x02;\n\t\t\treturn i * 8 + 6;\n\t\t} else if ((bitmap[i] & 0x01) == 0) {  /* lsb */\n\t\t\tbitmap[i] |= 0x01;\n\t\t\treturn i * 8 + 7;\n\t\t}\n\t}\n\treturn -1;\n}\n\n/*\n * free_bitmap_entry:\n *\n * Free a bitmap entry, if the entry is not found -1 is returned, otherwise zero. \n * Note that this function does not check if the bitmap entry was used (freeing\n * an unused entry has no effect).\n */\nstatic int free_bitmap_entry(int entry, unsigned char *bitmap)\n{\n\tunsigned char *bme;\n\n\tif (entry >= BITMAP_ENTRIES)\n\t\treturn -1;\n\n\tbme = &bitmap[entry / 8];\n\n\tswitch (entry % 8) {\n\t\tcase 0:\n\t\t\t*bme &= ~0x80;\n\t\t\tbreak;\n\t\tcase 1:\n\t\t\t*bme &= ~0x40;\n\t\t\tbreak;\n\t\tcase 2:\n\t\t\t*bme &= ~0x20;\n\t\t\tbreak;\n\t\tcase 3:\n\t\t\t*bme &= ~0x10;\n\t\t\tbreak;\n\t\tcase 4:\n\t\t\t*bme &= ~0x08;\n\t\t\tbreak;\n\t\tcase 5:\n\t\t\t*bme &= ~0x04;\n\t\t\tbreak;\n\t\tcase 6:\n\t\t\t*bme &= ~0x02;\n\t\t\tbreak;\n\t\tcase 7:\n\t\t\t*bme &= ~0x01;\n\t\t\tbreak;\n\t}\n\n\treturn 0;\n}\n\n\n\n/*\n * ino2blk:\n * Returns the filesystem block (block number relative to the super\n * block) corresponding to the inode number passed.\n */\nstatic blknum_t ino2blk(inode_t ino)\n{\n\treturn (blknum_t)-1;\n}\n\n/*\n * idx2blk:\n * Returns the filesystem block (block number relative to the super\n * block) corresponding to the data block index passed.\n */\nstatic blknum_t idx2blk(int index)\n{\n\treturn (blknum_t)-1;\n}\n\n/*\n * name2inode:\n * Parses a file name and returns the corresponding inode number. If\n * the file cannot be found, -1 is returned.\n */\nstatic inode_t name2inode(char *name)\n{\n\treturn (inode_t)current_running->cwd;\n}\n\n",
+					"settings":
+					{
+						"buffer_size": 9295,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 131.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"package re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 461.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad",
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src"
+			],
+			"file_history":
+			[
+				"/home/sigurd/Downloads/UnixFileSystem-master/src/fs.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/inode.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/shell.c",
+				"/home/sigurd/Downloads/UnixFileSystem-master/src/fs.h",
+				"/home/sigurd/Downloads/UnixFileSystem-master.zip",
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fstypes.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/block_sim.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/common.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fs_error.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/kernel.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/memory.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/memory.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/image",
+				"/home/sigurd/Downloads/proj-master/memory.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/usb/scsi.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/usb/scsi.h",
+				"/home/sigurd/Downloads/hardcoreBDSM.txt",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/interrupt.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/common.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/bochsrc",
+				"/home/sigurd/Downloads/proj-master/memory.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-4-sigurdkarlstad/src/paging.c",
+				"/home/sigurd/Documents/Informatikk/4sem/project-4-sigurdkarlstad/src/memory.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-4-sigurdkarlstad/src/memory.c",
+				"/home/sigurd/.config/compton.conf",
+				"/home/sigurd/.config/polybar/config",
+				"/home/sigurd/.scripts/inverse-scroll.sh",
+				"/home/sigurd/Downloads/proj-master.zip",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/thread.h",
+				"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src/kernel.c",
+				"/home/sigurd/.config/sublime-text-3/Packages/C++/Snippets/030-for-int-loop-(fori).sublime-snippet"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src",
+					"/home/sigurd/Documents/Informatikk/4sem/project-5-sigurdkarlstad/src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"256",
+					"BITMAP_OFFSET",
+					"d_inode",
+					"inode",
+					"os_size",
+					"->",
+					"close(",
+					"NDIRECT",
+					"wdir",
+					"fackmeintheassholeplsorletmedieofaids",
+					".",
+					"superblock",
+					"MAX_FILESIZE",
+					"file_size",
+					"FS_",
+					"FS_SIGN",
+					"SUPER_BLOCK",
+					"SUPERBLOCK",
+					"inode_read",
+					"replace_index",
+					"page_replacement_policy",
+					"TRUE",
+					"pageable_pages[replace_index]",
+					"scsi_write",
+					"SECTORS_PER_PAGE",
+					"tab_ind",
+					"mapping_table",
+					"dir_index",
+					"page",
+					"vaddr",
+					"[]",
+					"[].",
+					"UINT32_SIZE",
+					"addr",
+					"new_dir",
+					"addr",
+					"page_table",
+					"bcopy",
+					"page_swap_out",
+					"i",
+					"pinned",
+					"avail",
+					"pages",
+					"glob_directory"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/block.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2220,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										116,
+										123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/block.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 498,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										62,
+										62
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fs.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7534,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1446,
+										1446
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 790.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3846,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fs.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2214,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										422,
+										422
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 315.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/usb/scsi.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1891,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 495.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/superblock.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1537,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										856,
+										865
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/sigurd/Downloads/UnixFileSystem-master/src/fs.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27916,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										741,
+										747
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5175.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/inode.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1650,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1572,
+										1572
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/sigurd/Downloads/UnixFileSystem-master/src/fs.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2664,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2429,
+										2459
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/util.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8647,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6628,
+										6628
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4735.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fstypes.h",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 423,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/util.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1307,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/common.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3233,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1045,
+										1045
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/sigurd/Documents/Informatikk/4sem/project-6-sigurdkarlstad/src/fs_error.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2622,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										967,
+										967
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9295,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1982,
+										1982
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2115.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,14,49,1900,1060,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inode",
+						"src/inode.h"
+					],
+					[
+						"py",
+						"src/test.py"
+					],
+					[
+						"sup",
+						"src/superblock.h"
+					],
+					[
+						"comm",
+						"src/common.h"
+					],
+					[
+						"uti",
+						"src/util.h"
+					],
+					[
+						"scs",
+						"src/usb/scsi.h"
+					],
+					[
+						"commo",
+						"src/common.h"
+					],
+					[
+						"ima",
+						"src/image"
+					],
+					[
+						"mem",
+						"src/memory.h"
+					],
+					[
+						"ker",
+						"src/kernel.h"
+					],
+					[
+						"scsi",
+						"src/usb/scsi.h"
+					],
+					[
+						"repot",
+						"doc/report.tex"
+					],
+					[
+						"kere",
+						"src/kernel.c"
+					],
+					[
+						"inte",
+						"src/interrupt.c"
+					],
+					[
+						"kerne",
+						"src/kernel.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 203.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
